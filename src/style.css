@@ -1,0 +1,53 @@
+/* headerStyles.css */
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+
+/* footerStyles.css */
+footer {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  p {
+    color: #fff;
+    font-size: 14px;
+  }
+  
+
+  /* sidebarStyles.css */
+
+  .sidebar {
+    color: #333;
+  }
+
+aside {
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 200px;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
