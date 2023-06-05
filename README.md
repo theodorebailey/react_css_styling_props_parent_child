@@ -1,6 +1,8 @@
 
 Basic manipulation of CSS styling passing props down from parent to child
 
+Saved local: my-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
